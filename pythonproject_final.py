@@ -451,7 +451,7 @@ def save_results(dna, analysis, rev_comp, rna, protein, motif, positions, mutati
 
 def main():
     print("\n" + "="*55)
-    print("  BioSeq Toolkit v1.1")
+    print("  Python final project ")
     print("  DNA & Protein Analysis Tool")
     print("="*55)
 
